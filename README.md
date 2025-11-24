@@ -35,6 +35,6 @@ This toolkit is designed to run automatically via a Cron job. Add the following 
 ```
 
 🛠️ Tech Stack
-* **Language: Bash Scripting
-* **Tools: awk, find, free, df, uptime, crontab
-* **OS: Linux (Tested on WSL2/Ubuntu)
+* **Language:** Bash Scripting
+* **Tool:** awk, find, free, df, uptime, crontab
+* **OS:** Linux (Tested on WSL2/Ubuntu)
