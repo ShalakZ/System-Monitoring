@@ -21,16 +21,18 @@ A collection of Bash scripts designed to automate server health monitoring, log 
 Clone the repository to your local machine:
 ```bash
 git clone [https://github.com/ShalakZ/System-Monitoring.git](https://github.com/ShalakZ/System-Monitoring.git)
-
+```
 ### 2. Permissions
 Ensure all scripts are executable:
 ```bash
 chmod +x *.sh
+```
 
 ### 3. Automation (Cron)
 This toolkit is designed to run automatically via a Cron job. Add the following line to your crontab (crontab -e) to run the full suite every Monday at 6:00 AM:
 ```bash
 0 6 * * 1 /home/ziad/Project/master_monitor.sh
+```
 
 🛠️ Tech Stack
 * **Language: Bash Scripting
